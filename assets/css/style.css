@@ -1783,7 +1783,7 @@ footer {
   .header-top-actions { display: none; }
 
   .header-alert-news {
-    color: var(--sonic-silver);
+    color: white;
     font-size: var(--fs-9);
     text-transform: uppercase;
   }
