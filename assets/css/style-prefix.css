@@ -46,7 +46,7 @@
 }
 
 .container {
-  background-color: #f2f2f2;
+  background-color: #ffffff;
   padding: 5px 20px 15px 20px;
   border: 1px solid lightgrey;
   border-radius: 3px;
@@ -151,8 +151,8 @@ span.price {
   --bittersweet: hsl(0, 100%, 70%);
   --ocean-green: hsl(152, 51%, 52%);
   --davys-gray: hsl(0, 0%, 33%);
-  --cultured: hsl(0, 0%, 93%);
-  --white: hsl(0, 68%, 85%);
+  --cultured: hsl(0, 35%, 64%);
+  --white: hsl(0, 64%, 50%);
   --onyx: hsl(0, 0%, 27%);
 
   /**
@@ -237,7 +237,7 @@ a { text-decoration: none; }
 li { list-style: none; }
 
 button {
-  background: none;
+  background: white;
   font: inherit;
   border: none;
   cursor: pointer;
