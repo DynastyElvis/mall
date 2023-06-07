@@ -2337,6 +2337,7 @@ footer {
   .header-social-container,
   .header-top-actions { display: none; }
 
+  
   .header-alert-news {
     color: rgb(186, 32, 32);
     font-size: var(--fs-9);
